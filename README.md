@@ -1,7 +1,6 @@
 #CI-Theme
 ----
 这是Sigma-9式的一个分支，在[混沌分裂者](https://ci-cn-wiki.wikidot.com)使用。
-本版式的创建者为[DrCaduceus](https://www.wikidot.com/user:info/DrCaduceus)
 
 
 免责声明: 源自SCP基金会站点的内容已按照知识共享署名-相同方式共享4.0许可进行了许可。
